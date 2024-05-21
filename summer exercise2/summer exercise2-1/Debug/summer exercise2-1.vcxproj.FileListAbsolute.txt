@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\summer exercise2-1\Debug\summer exercise2-1.exe
+C:\Users\USER\source\repos\summer exercise2-1\Debug\summer exercise2-1.pdb
+C:\Users\USER\source\repos\summer exercise2\summer exercise2-1\Debug\summer exercise2-1.exe
+C:\Users\USER\source\repos\summer exercise2\summer exercise2-1\Debug\summer exercise2-1.pdb
