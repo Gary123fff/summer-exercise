@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\summer exercise 5\main.cpp(53,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\source\repos\summer exercise 5\main.cpp(180,20): warning C4018: '<': signed/unsigned 不相符
+  readObhfunc.cpp
+  正在產生程式碼...
+  summer exercise 5.vcxproj -> C:\Users\USER\source\repos\summer exercise 5\Debug\summer exercise 5.exe
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。
