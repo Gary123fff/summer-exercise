@@ -1,5 +1,0 @@
-C:\Users\USER\source\repos\summer_exercise4\Debug\summer_exercise4.vcxproj.CopyComplete
-C:\Users\USER\source\repos\summer_exercise4\Debug\summer_exercise4.exe
-C:\Users\USER\source\repos\summer_exercise4\Debug\summer_exercise4.pdb
-C:\Users\USER\source\repos\summer_exercise4\Debug\libpng16d.dll
-C:\Users\USER\source\repos\summer_exercise4\Debug\zlibd1.dll
